@@ -12,6 +12,7 @@ FM Radioempfänger für häufige Radiofrequenzen und FM Radioempfänger für Sam
 2. Eigener (verbesserter) Versuch:
 
 ![image](https://github.com/HaaseJonas/KSN_Haase_SDR-Projekt/assets/133774253/08f9a4e3-8fa1-4e57-b6e2-35c4337d69e1)
+![image](https://github.com/HaaseJonas/KSN_Haase_SDR-Projekt/assets/133774253/6683dbda-f965-46b1-bf43-6ef5a00d8885)
 
 Tutorial zum Ausprobieren: 
 
